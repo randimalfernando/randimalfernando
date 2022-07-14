@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **randimalfdo@gmail.com**
 
+(p align="left")(img src="randi.png" alt="khushboogoel01" /)(/p)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ranfdo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ranfdo" height="30" width="40" /></a>
